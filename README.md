@@ -64,7 +64,7 @@ L'utilisateur est responsable de son utilisation.
 # ⚡ Signature
 
 <p align="center">
-  <b>Mr Vens/b><br>
+  <b>Mr Vens b><br>
   <i>Innovation • Puissance • Automatisation</i>
 </p>
 
