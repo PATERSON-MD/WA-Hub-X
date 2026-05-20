@@ -56,7 +56,7 @@ L'utilisateur est responsable de son utilisation.
 # 💬 Contact rapide
 
 <p align="center">
-  <a href="https://wa.me/243833389567">
+  <a href="https://wa.me/50933545980">
     <img src="https://img.shields.io/badge/💬%20Contacter%20sur%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -64,7 +64,7 @@ L'utilisateur est responsable de son utilisation.
 # ⚡ Signature
 
 <p align="center">
-  <b>Digital Crew 243</b><br>
+  <b>Mr Vens/b><br>
   <i>Innovation • Puissance • Automatisation</i>
 </p>
 
